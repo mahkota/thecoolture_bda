@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373501412100",
+    "project_id": "batikrecog-84",
+    "storage_bucket": "batikrecog-84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373501412100:android:4f9867bdb8ee14071b0651",
+        "android_client_info": {
+          "package_name": "com.thecoolture.batikdetectionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373501412100-l5hq2iap85hht2jui5tge9lgarn59b9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3XzmZOkr9mRJNtqjpfvqDmFCF2j1pRLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373501412100-l5hq2iap85hht2jui5tge9lgarn59b9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
